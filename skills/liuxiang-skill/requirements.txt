@@ -1,0 +1,2 @@
+lxml>=5.3,<7
+trafilatura>=2.0,<3
